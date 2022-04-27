@@ -1,4 +1,4 @@
-.body{
+body{
     position: absolute;
     margin-top: 250px;
     margin-left: 150px;
@@ -6,4 +6,14 @@
     font-weight: bold;
     width: 22px;
     height: 8px;
+    background-color: blue;
+}
+.style{
+    margin-top: 250px;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 22px;
+    height: 8px;
+    background-color: blue;
 }
