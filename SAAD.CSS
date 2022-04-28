@@ -17,3 +17,15 @@ body{
     height: 8px;
     background-color: blue;
 }
+.style2{
+    position: absolute;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 20px;
+    height: 100px;
+    background-color: black;
+    padding: 0;
+    top: auto;
+    margin-block-end: auto;
+}
